@@ -1,0 +1,72 @@
+.lang-pie {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  left: 200px;
+  top: 280px;
+}
+.heading-lang {
+  margin: 20px;
+  font-style: oblique;
+  position: absolute;
+  top: -60px;
+  left: 90px;
+}
+.Sub-pie {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  right: 200px;
+  top: 280px;
+}
+.heading-Sub {
+  margin: 20px;
+  font-style: oblique;
+  position: absolute;
+  top: -60px;
+  right: 120px;
+}
+.topics-pie {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  right: 650px;
+  top: 280px;
+}
+.heading-topics {
+  margin: 20px;
+  font-style: oblique;
+  position: absolute;
+  top: -60px;
+  right: 115px;
+}
+
+.problem-bar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  right: 325px;
+  top: 900px;
+}
+
+.ratings-graph {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  right: 325px;
+  top: 1500px;
+}
+.rating-table {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  right: 0px;
+  top: 2200px;
+  /* bottom: 20px; */
+}
