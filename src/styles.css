@@ -30,7 +30,7 @@
 }
 .topics-pie {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   position: absolute;
   right: 650px;
