@@ -70,3 +70,8 @@
   top: 2200px;
   /* bottom: 20px; */
 }
+.pie-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
