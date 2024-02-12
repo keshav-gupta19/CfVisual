@@ -292,6 +292,7 @@ const Charts = ({ name }) => {
   }, [name]);
   return (
     <div className="container">
+    <div className="pie-container">
       <div className="lang-pie">
         <h5 className="heading-lang">Languages that you use:</h5>
         {loading && data?.length > 0 && (
@@ -383,6 +384,7 @@ const Charts = ({ name }) => {
             <Tooltip />
           </PieChart>
         )}
+        </div>
       </div>
       {/* Bar Graphs of indexes */}
       <div className="problem-bar">
